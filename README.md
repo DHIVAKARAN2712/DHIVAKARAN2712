@@ -79,7 +79,7 @@ I enjoy building web applications and continuously improving my skills in modern
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 
 </div>
 
